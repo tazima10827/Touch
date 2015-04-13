@@ -14,6 +14,11 @@
 		9F4572B81A8F406800E20917 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572B71A8F406800E20917 /* Images.xcassets */; };
 		9F4572BB1A8F406800E20917 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572B91A8F406800E20917 /* LaunchScreen.xib */; };
 		9F4572C71A8F406800E20917 /* TouchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F4572C61A8F406800E20917 /* TouchTests.m */; };
+		9F4572D41A8F413300E20917 /* 黄色1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572D01A8F413300E20917 /* 黄色1.png */; };
+		9F4572D51A8F413300E20917 /* 紫1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572D11A8F413300E20917 /* 紫1.png */; };
+		9F4572D61A8F413300E20917 /* 青1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572D21A8F413300E20917 /* 青1.png */; };
+		9F4572D71A8F413300E20917 /* 赤1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572D31A8F413300E20917 /* 赤1.png */; };
+		9F4572D91A8F42FF00E20917 /* 044.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F4572D81A8F42FF00E20917 /* 044.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +45,11 @@
 		9F4572C01A8F406800E20917 /* TouchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TouchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F4572C51A8F406800E20917 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F4572C61A8F406800E20917 /* TouchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchTests.m; sourceTree = "<group>"; };
+		9F4572D01A8F413300E20917 /* 黄色1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "黄色1.png"; sourceTree = "<group>"; };
+		9F4572D11A8F413300E20917 /* 紫1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "紫1.png"; sourceTree = "<group>"; };
+		9F4572D21A8F413300E20917 /* 青1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "青1.png"; sourceTree = "<group>"; };
+		9F4572D31A8F413300E20917 /* 赤1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "赤1.png"; sourceTree = "<group>"; };
+		9F4572D81A8F42FF00E20917 /* 044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 044.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +96,11 @@
 				9F4572B11A8F406800E20917 /* ViewController.h */,
 				9F4572B21A8F406800E20917 /* ViewController.m */,
 				9F4572B41A8F406800E20917 /* Main.storyboard */,
+				9F4572D81A8F42FF00E20917 /* 044.png */,
+				9F4572D01A8F413300E20917 /* 黄色1.png */,
+				9F4572D11A8F413300E20917 /* 紫1.png */,
+				9F4572D21A8F413300E20917 /* 青1.png */,
+				9F4572D31A8F413300E20917 /* 赤1.png */,
 				9F4572B71A8F406800E20917 /* Images.xcassets */,
 				9F4572B91A8F406800E20917 /* LaunchScreen.xib */,
 				9F4572AA1A8F406800E20917 /* Supporting Files */,
@@ -199,7 +214,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F4572D51A8F413300E20917 /* 紫1.png in Resources */,
+				9F4572D71A8F413300E20917 /* 赤1.png in Resources */,
+				9F4572D91A8F42FF00E20917 /* 044.png in Resources */,
 				9F4572B61A8F406800E20917 /* Main.storyboard in Resources */,
+				9F4572D61A8F413300E20917 /* 青1.png in Resources */,
+				9F4572D41A8F413300E20917 /* 黄色1.png in Resources */,
 				9F4572BB1A8F406800E20917 /* LaunchScreen.xib in Resources */,
 				9F4572B81A8F406800E20917 /* Images.xcassets in Resources */,
 			);
